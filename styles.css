@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+h1{
+	color: #2a7ae2;
+	font-family: sans-serif;
+}
+h2{
+	color: #f44336;
+	font-family: sans-serif;
+}
+h3{
+	color: #4caf50;
+	font-family: sans-serif;
+}
+h4{
+	color: #ff9800;
+	font-family: sans-serif;
+}
+h5{
+	color: #607d8b;
+	font-family: sans-serif;
+}
+h6{
+	color: #ffeb3b;
+	font-family:sans-serif;
+}
